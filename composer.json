@@ -1,0 +1,6 @@
+{
+    "require": {
+        "slim/slim": "^3.10",
+        "facebook/graph-sdk": "^5.6"
+    }
+}
